@@ -1,0 +1,2 @@
+# BSC ↔ XCapital XCBC20
+

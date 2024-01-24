@@ -1,0 +1,2 @@
+# Ethereum ↔ XCapital GoodDollar Token
+
